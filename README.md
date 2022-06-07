@@ -2,8 +2,8 @@
 
 Endpoints
 
-http://localhost:8080/api/v1/personas
-http://localhost:8080/api/v1/persona/2
+- http://localhost:8080/api/v1/personas
+- http://localhost:8080/api/v1/persona/2
 
 Request
 
